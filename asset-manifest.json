@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gaspardbourde/quiz-app.git/static/css/main.a4aecc46.css",
+    "main.js": "/Gaspardbourde/quiz-app.git/static/js/main.6529437c.js",
+    "index.html": "/Gaspardbourde/quiz-app.git/index.html",
+    "main.a4aecc46.css.map": "/Gaspardbourde/quiz-app.git/static/css/main.a4aecc46.css.map",
+    "main.6529437c.js.map": "/Gaspardbourde/quiz-app.git/static/js/main.6529437c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4aecc46.css",
+    "static/js/main.6529437c.js"
+  ]
+}
